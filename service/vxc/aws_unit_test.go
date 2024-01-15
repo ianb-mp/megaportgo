@@ -1,5 +1,4 @@
 //go:build unit
-// +build unit
 
 // This file is present as a "Guide" for the seperation of unit and
 // Integration testing.
