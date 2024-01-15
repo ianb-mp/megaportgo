@@ -1,5 +1,7 @@
-# Overview
 # MegaportGo
+[![Go Reference](https://pkg.go.dev/badge/github.com/megaport/megaportgo.svg)](https://pkg.go.dev/github.com/megaport/megaportgo)
+
+## Overview
 
 This is the Megaport Go Library. It allows users to orchestrate the creation of Megaport Services.
 

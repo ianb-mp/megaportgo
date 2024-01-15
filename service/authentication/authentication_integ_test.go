@@ -92,6 +92,8 @@ func TestLoginOauth(t *testing.T) {
 	logger.Info(token)
 }
 
+/* FIXME: authentication.LoginUsername was removed
+
 func TestLoginUsername(t *testing.T) {
 
 	if username == "" {
@@ -120,3 +122,4 @@ func TestLoginUsername(t *testing.T) {
 
 	logger.Info(token)
 }
+*/
