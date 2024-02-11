@@ -1,8 +1,6 @@
-module github.com/megaport/megaportgo
+module github.com/ianb-mp/megaportgo
 
 go 1.21.7
-
-replace github.com/megaport/megaportgo => github.com/ianb-mp/megaportgo v1.0.0-alpha
 
 require (
 	github.com/lithammer/fuzzysearch v1.1.5
